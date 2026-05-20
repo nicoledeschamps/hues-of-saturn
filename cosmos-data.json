@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-05-19T11:14:59Z",
+  "updated": "2026-05-20T10:48:02Z",
   "collections": [
     "elements",
     "cyber",
@@ -704,10 +704,6 @@
       "collection": "vroom-vroom"
     },
     {
-      "src": "https://cdn.cosmos.so/adc736aa-97e7-423b-860f-e38eef60b827?format=webp&w=400",
-      "collection": "food"
-    },
-    {
       "src": "https://cdn.cosmos.so/b3605f38-ed86-4165-9e9c-44701ed9cc0e?format=webp&w=400",
       "collection": "food"
     },
@@ -1365,6 +1361,10 @@
     },
     {
       "src": "https://cdn.cosmos.so/8ca77fa7-1bc6-4f17-918f-c7e3d628653d?format=webp&w=400",
+      "collection": "cherry-bomb"
+    },
+    {
+      "src": "https://cdn.cosmos.so/adc736aa-97e7-423b-860f-e38eef60b827?format=webp&w=400",
       "collection": "cherry-bomb"
     },
     {
