@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-05-29T11:25:53Z",
+  "updated": "2026-05-30T09:58:03Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,7 +25,7 @@
     "no-more-work",
     "cold"
   ],
-  "total": 427,
+  "total": 426,
   "images": [
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
@@ -86,10 +86,6 @@
     {
       "src": "https://cdn.cosmos.so/e4a72c5f-95f0-4889-bc5b-408d821881b1?format=webp&w=400",
       "collection": "cyber"
-    },
-    {
-      "src": "https://cdn.cosmos.so/cf37723f-e4a3-4803-b6f7-9fae334819ca?format=webp&w=400",
-      "collection": "motion"
     },
     {
       "src": "https://cdn.cosmos.so/86200e26-9bb2-4133-9c0a-b4e8919a9256?format=webp&w=400",
@@ -442,10 +438,6 @@
     {
       "src": "https://cdn.cosmos.so/e09b2328-a8ed-4659-a140-1afc85426e73?format=webp&w=400",
       "collection": "i-like"
-    },
-    {
-      "src": "https://cdn.cosmos.so/4b189596-a7cb-45d3-9c94-aabe6dea895d?format=webp&w=400",
-      "collection": "fire"
     },
     {
       "src": "https://cdn.cosmos.so/13465a1b-14ae-4595-94d4-abfd77a07485?format=webp&w=400",
@@ -1658,6 +1650,10 @@
     {
       "src": "https://cdn.cosmos.so/3de45b0e-75d6-4124-bb27-d9532abd5704?format=webp&w=400",
       "collection": "no-more-work"
+    },
+    {
+      "src": "https://cdn.cosmos.so/19798df0-82fe-412c-b44d-f432c0cf9dbb?format=webp&w=400",
+      "collection": "cold"
     },
     {
       "src": "https://cdn.cosmos.so/79a48165-95e7-4315-84e7-bb364987acaa?format=webp&w=400",
