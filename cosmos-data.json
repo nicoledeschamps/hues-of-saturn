@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-06-02T12:02:18Z",
+  "updated": "2026-06-03T12:39:55Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,7 +25,7 @@
     "no-more-work",
     "cold"
   ],
-  "total": 425,
+  "total": 426,
   "images": [
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
@@ -310,6 +310,10 @@
     {
       "src": "https://cdn.cosmos.so/adb6dd20-7335-4f9d-8b3f-92f261fb142c?format=webp&w=400",
       "collection": "motion"
+    },
+    {
+      "src": "https://cdn.cosmos.so/f685b2df-5b0a-45cd-a3e8-55c54ecf4164?format=webp&w=400",
+      "collection": "art-that-caught-me"
     },
     {
       "src": "https://cdn.cosmos.so/1a915151-7ba3-49b2-89ca-9e87695766cd?format=webp&w=400",
