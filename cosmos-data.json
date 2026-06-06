@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-06-05T11:26:26Z",
+  "updated": "2026-06-06T10:01:28Z",
   "collections": [
     "elements",
     "cyber",
@@ -486,6 +486,10 @@
     {
       "src": "https://cdn.cosmos.so/27cd5c8c-550c-460e-a2d9-88c570faf83a?format=webp&w=400",
       "collection": "fire"
+    },
+    {
+      "src": "https://cdn.cosmos.so/5bc56ed8-bcf5-426b-960d-653b884ef076?format=webp&w=400",
+      "collection": "creative-direction"
     },
     {
       "src": "https://cdn.cosmos.so/f4520639-0b36-452a-81bc-bfd56b9f3109?format=webp&w=400",
@@ -1390,10 +1394,6 @@
     {
       "src": "https://cdn.cosmos.so/5c987efc-a190-4ed7-8843-02d0d6181fc4?format=webp&w=400",
       "collection": "cherry-bomb"
-    },
-    {
-      "src": "https://cdn.cosmos.so/d49148a1-fda2-4599-b844-92a5d8f2aa06?format=webp&w=400",
-      "collection": "destruction-in-all-forms"
     },
     {
       "src": "https://cdn.cosmos.so/a686f6e8-279e-4661-95a9-e9a1018cf749?format=webp&w=400",
