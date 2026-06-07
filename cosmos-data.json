@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-06-06T10:01:28Z",
+  "updated": "2026-06-07T10:26:43Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,7 +25,7 @@
     "no-more-work",
     "cold"
   ],
-  "total": 426,
+  "total": 427,
   "images": [
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
@@ -364,6 +364,10 @@
       "collection": "art-that-caught-me"
     },
     {
+      "src": "https://cdn.cosmos.so/3f44494d-ac2d-4e85-b6a1-f5223a203f17?format=webp&w=400",
+      "collection": "i-like"
+    },
+    {
       "src": "https://cdn.cosmos.so/0b71f7fe-003e-4367-95bd-22962f087d17?format=webp&w=400",
       "collection": "i-like"
     },
@@ -486,10 +490,6 @@
     {
       "src": "https://cdn.cosmos.so/27cd5c8c-550c-460e-a2d9-88c570faf83a?format=webp&w=400",
       "collection": "fire"
-    },
-    {
-      "src": "https://cdn.cosmos.so/5bc56ed8-bcf5-426b-960d-653b884ef076?format=webp&w=400",
-      "collection": "creative-direction"
     },
     {
       "src": "https://cdn.cosmos.so/f4520639-0b36-452a-81bc-bfd56b9f3109?format=webp&w=400",
@@ -1446,6 +1446,10 @@
     {
       "src": "https://cdn.cosmos.so/acdb7e81-c170-40f0-bbbb-349e87cbeca0?format=webp&w=400",
       "collection": "destruction-in-all-forms"
+    },
+    {
+      "src": "https://cdn.cosmos.so/3da1ce8b-fa2c-48e8-8a59-065d1cdbac50?format=webp&w=400",
+      "collection": "hello-my-darling"
     },
     {
       "src": "https://cdn.cosmos.so/e114372c-a2c7-406c-b0ac-57f21b19b2c8?format=webp&w=400",
