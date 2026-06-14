@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-06-13T10:26:22Z",
+  "updated": "2026-06-14T10:47:11Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,12 +25,8 @@
     "no-more-work",
     "cold"
   ],
-  "total": 596,
+  "total": 591,
   "images": [
-    {
-      "src": "https://cdn.cosmos.so/288cec59-6d2d-46c0-8dc6-4659d5d4fb6a?format=webp&w=400",
-      "collection": "cyber"
-    },
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
       "collection": "cyber"
@@ -90,10 +86,6 @@
     {
       "src": "https://cdn.cosmos.so/e4a72c5f-95f0-4889-bc5b-408d821881b1?format=webp&w=400",
       "collection": "cyber"
-    },
-    {
-      "src": "https://cdn.cosmos.so/cf37723f-e4a3-4803-b6f7-9fae334819ca?format=webp&w=400",
-      "collection": "motion"
     },
     {
       "src": "https://cdn.cosmos.so/86200e26-9bb2-4133-9c0a-b4e8919a9256?format=webp&w=400",
@@ -372,10 +364,6 @@
       "collection": "motion"
     },
     {
-      "src": "https://cdn.cosmos.so/f685b2df-5b0a-45cd-a3e8-55c54ecf4164?format=webp&w=400",
-      "collection": "art-that-caught-me"
-    },
-    {
       "src": "https://cdn.cosmos.so/1a915151-7ba3-49b2-89ca-9e87695766cd?format=webp&w=400",
       "collection": "art-that-caught-me"
     },
@@ -590,10 +578,6 @@
     {
       "src": "https://cdn.cosmos.so/27cd5c8c-550c-460e-a2d9-88c570faf83a?format=webp&w=400",
       "collection": "fire"
-    },
-    {
-      "src": "https://cdn.cosmos.so/5bc56ed8-bcf5-426b-960d-653b884ef076?format=webp&w=400",
-      "collection": "creative-direction"
     },
     {
       "src": "https://cdn.cosmos.so/f4520639-0b36-452a-81bc-bfd56b9f3109?format=webp&w=400",
@@ -1432,10 +1416,6 @@
       "collection": "food"
     },
     {
-      "src": "https://cdn.cosmos.so/9a73db86-3d26-4e91-bb6a-e6a50c8a6e9e?format=webp&w=400",
-      "collection": "feels"
-    },
-    {
       "src": "https://cdn.cosmos.so/53f56765-6422-4b12-b074-3599a5cbd75b?format=webp&w=400",
       "collection": "feels"
     },
@@ -1730,6 +1710,10 @@
     {
       "src": "https://cdn.cosmos.so/32f00a63-69f7-4e61-93ce-f40f1f63d4e8?format=webp&w=400",
       "collection": "codecore"
+    },
+    {
+      "src": "https://cdn.cosmos.so/22cc38f6-81ca-480f-bbf5-9b99d020a13b?format=webp&w=400",
+      "collection": "cherry-bomb"
     },
     {
       "src": "https://cdn.cosmos.so/1e037ba4-7e1a-495f-8726-414671e1357e?format=webp&w=400",
@@ -2170,10 +2154,6 @@
     {
       "src": "https://cdn.cosmos.so/1a66ffae-190d-45ee-aaea-8e3065fa6c88?format=webp&w=400",
       "collection": "medieval-young-ho"
-    },
-    {
-      "src": "https://cdn.cosmos.so/3c47f9e3-0dab-45ba-a0dd-7b1ffa76d1b2?format=webp&w=400",
-      "collection": "clotbes-that-catch-me"
     },
     {
       "src": "https://cdn.cosmos.so/bff16996-9981-44f9-b366-464087983a6d?format=webp&w=400",
