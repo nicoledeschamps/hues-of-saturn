@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-06-26T10:48:44Z",
+  "updated": "2026-06-27T10:04:46Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,7 +25,7 @@
     "no-more-work",
     "cold"
   ],
-  "total": 593,
+  "total": 590,
   "images": [
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
@@ -362,6 +362,10 @@
     {
       "src": "https://cdn.cosmos.so/014a19d0-58ab-446d-85d5-1f6badd4855c?format=webp&w=400",
       "collection": "motion"
+    },
+    {
+      "src": "https://cdn.cosmos.so/f685b2df-5b0a-45cd-a3e8-55c54ecf4164?format=webp&w=400",
+      "collection": "art-that-caught-me"
     },
     {
       "src": "https://cdn.cosmos.so/1a915151-7ba3-49b2-89ca-9e87695766cd?format=webp&w=400",
@@ -1804,10 +1808,6 @@
       "collection": "cherry-bomb"
     },
     {
-      "src": "https://cdn.cosmos.so/d49148a1-fda2-4599-b844-92a5d8f2aa06?format=webp&w=400",
-      "collection": "destruction-in-all-forms"
-    },
-    {
       "src": "https://cdn.cosmos.so/a686f6e8-279e-4661-95a9-e9a1018cf749?format=webp&w=400",
       "collection": "destruction-in-all-forms"
     },
@@ -2120,10 +2120,6 @@
       "collection": "hello-my-darling"
     },
     {
-      "src": "https://cdn.cosmos.so/fdbb640a-612b-48a0-a921-bb759c593c41?format=webp&w=400",
-      "collection": "medieval-young-ho"
-    },
-    {
       "src": "https://cdn.cosmos.so/68ecdd96-e2f6-402b-b944-a1c0e17ca3bf?format=webp&w=400",
       "collection": "medieval-young-ho"
     },
@@ -2188,10 +2184,6 @@
       "collection": "clotbes-that-catch-me"
     },
     {
-      "src": "https://cdn.cosmos.so/e6c26eb6-12f8-4c59-95e4-a8c47c283c08?format=webp&w=400",
-      "collection": "candle-operas"
-    },
-    {
       "src": "https://cdn.cosmos.so/31b26783-5520-44b8-b6d8-520688bc7a79?format=webp&w=400",
       "collection": "candle-operas"
     },
@@ -2206,10 +2198,6 @@
     {
       "src": "https://cdn.cosmos.so/99ed179e-2061-4cbd-b1bc-0f8e3bfb454a?format=webp&w=400",
       "collection": "candle-operas"
-    },
-    {
-      "src": "https://cdn.cosmos.so/750b5abb-f541-4f47-890a-070e0698c834?format=webp&w=400",
-      "collection": "surrealism"
     },
     {
       "src": "https://cdn.cosmos.so/90285d6a-31fa-4526-b39f-a0dd53528a4b?format=webp&w=400",
