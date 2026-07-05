@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-07-04T10:06:49Z",
+  "updated": "2026-07-05T10:09:16Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,7 +25,7 @@
     "no-more-work",
     "cold"
   ],
-  "total": 589,
+  "total": 590,
   "images": [
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
@@ -530,6 +530,10 @@
     {
       "src": "https://cdn.cosmos.so/773583fb-7158-43fd-9389-32d6a81a3805?format=webp&w=400",
       "collection": "i-like"
+    },
+    {
+      "src": "https://cdn.cosmos.so/4b189596-a7cb-45d3-9c94-aabe6dea895d?format=webp&w=400",
+      "collection": "fire"
     },
     {
       "src": "https://cdn.cosmos.so/13465a1b-14ae-4595-94d4-abfd77a07485?format=webp&w=400",
