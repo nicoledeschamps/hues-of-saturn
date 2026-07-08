@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-07-07T10:52:26Z",
+  "updated": "2026-07-08T10:13:36Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,7 +25,7 @@
     "no-more-work",
     "cold"
   ],
-  "total": 591,
+  "total": 594,
   "images": [
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
@@ -86,6 +86,10 @@
     {
       "src": "https://cdn.cosmos.so/e4a72c5f-95f0-4889-bc5b-408d821881b1?format=webp&w=400",
       "collection": "cyber"
+    },
+    {
+      "src": "https://cdn.cosmos.so/cf37723f-e4a3-4803-b6f7-9fae334819ca?format=webp&w=400",
+      "collection": "motion"
     },
     {
       "src": "https://cdn.cosmos.so/86200e26-9bb2-4133-9c0a-b4e8919a9256?format=webp&w=400",
@@ -364,6 +368,10 @@
       "collection": "motion"
     },
     {
+      "src": "https://cdn.cosmos.so/f685b2df-5b0a-45cd-a3e8-55c54ecf4164?format=webp&w=400",
+      "collection": "art-that-caught-me"
+    },
+    {
       "src": "https://cdn.cosmos.so/1a915151-7ba3-49b2-89ca-9e87695766cd?format=webp&w=400",
       "collection": "art-that-caught-me"
     },
@@ -578,6 +586,10 @@
     {
       "src": "https://cdn.cosmos.so/27cd5c8c-550c-460e-a2d9-88c570faf83a?format=webp&w=400",
       "collection": "fire"
+    },
+    {
+      "src": "https://cdn.cosmos.so/5bc56ed8-bcf5-426b-960d-653b884ef076?format=webp&w=400",
+      "collection": "creative-direction"
     },
     {
       "src": "https://cdn.cosmos.so/f4520639-0b36-452a-81bc-bfd56b9f3109?format=webp&w=400",
@@ -942,10 +954,6 @@
     {
       "src": "https://cdn.cosmos.so/db2f52cf-f724-4cbe-bc29-421077327904?format=webp&w=400",
       "collection": "vroom-vroom"
-    },
-    {
-      "src": "https://cdn.cosmos.so/adc736aa-97e7-423b-860f-e38eef60b827?format=webp&w=400",
-      "collection": "food"
     },
     {
       "src": "https://cdn.cosmos.so/b3605f38-ed86-4165-9e9c-44701ed9cc0e?format=webp&w=400",
@@ -1736,6 +1744,10 @@
       "collection": "cherry-bomb"
     },
     {
+      "src": "https://cdn.cosmos.so/adc736aa-97e7-423b-860f-e38eef60b827?format=webp&w=400",
+      "collection": "cherry-bomb"
+    },
+    {
       "src": "https://cdn.cosmos.so/03f97c91-7426-475c-be27-123737a51908?format=webp&w=400",
       "collection": "cherry-bomb"
     },
@@ -1806,6 +1818,10 @@
     {
       "src": "https://cdn.cosmos.so/7068dc42-9659-428d-89a2-26e63fc496db?format=webp&w=400",
       "collection": "cherry-bomb"
+    },
+    {
+      "src": "https://cdn.cosmos.so/d49148a1-fda2-4599-b844-92a5d8f2aa06?format=webp&w=400",
+      "collection": "destruction-in-all-forms"
     },
     {
       "src": "https://cdn.cosmos.so/a686f6e8-279e-4661-95a9-e9a1018cf749?format=webp&w=400",
@@ -2206,10 +2222,6 @@
     {
       "src": "https://cdn.cosmos.so/86167ee7-d084-4db5-89a8-f9ef665ac787?format=webp&w=400",
       "collection": "surrealism"
-    },
-    {
-      "src": "https://cdn.cosmos.so/14524e61-9c6d-4f06-af8b-b11ce6f0e22b?format=webp&w=400",
-      "collection": "no-more-work"
     },
     {
       "src": "https://cdn.cosmos.so/a94e89d4-e880-409e-ab3f-5c53de37576a?format=webp&w=400",
