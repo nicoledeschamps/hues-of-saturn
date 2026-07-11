@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-07-10T10:50:31Z",
+  "updated": "2026-07-11T09:25:33Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,8 +25,12 @@
     "no-more-work",
     "cold"
   ],
-  "total": 589,
+  "total": 590,
   "images": [
+    {
+      "src": "https://cdn.cosmos.so/288cec59-6d2d-46c0-8dc6-4659d5d4fb6a?format=webp&w=400",
+      "collection": "cyber"
+    },
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
       "collection": "cyber"
@@ -944,6 +948,10 @@
       "collection": "vroom-vroom"
     },
     {
+      "src": "https://cdn.cosmos.so/adc736aa-97e7-423b-860f-e38eef60b827?format=webp&w=400",
+      "collection": "food"
+    },
+    {
       "src": "https://cdn.cosmos.so/b3605f38-ed86-4165-9e9c-44701ed9cc0e?format=webp&w=400",
       "collection": "food"
     },
@@ -1725,10 +1733,6 @@
     },
     {
       "src": "https://cdn.cosmos.so/8ca77fa7-1bc6-4f17-918f-c7e3d628653d?format=webp&w=400",
-      "collection": "cherry-bomb"
-    },
-    {
-      "src": "https://cdn.cosmos.so/adc736aa-97e7-423b-860f-e38eef60b827?format=webp&w=400",
       "collection": "cherry-bomb"
     },
     {
