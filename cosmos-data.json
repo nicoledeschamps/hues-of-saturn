@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-07-17T09:54:01Z",
+  "updated": "2026-07-18T09:21:30Z",
   "collections": [
     "elements",
     "cyber",
@@ -86,10 +86,6 @@
     {
       "src": "https://cdn.cosmos.so/e4a72c5f-95f0-4889-bc5b-408d821881b1?format=webp&w=400",
       "collection": "cyber"
-    },
-    {
-      "src": "https://cdn.cosmos.so/cf37723f-e4a3-4803-b6f7-9fae334819ca?format=webp&w=400",
-      "collection": "motion"
     },
     {
       "src": "https://cdn.cosmos.so/86200e26-9bb2-4133-9c0a-b4e8919a9256?format=webp&w=400",
@@ -2120,6 +2116,10 @@
       "collection": "hello-my-darling"
     },
     {
+      "src": "https://cdn.cosmos.so/fdbb640a-612b-48a0-a921-bb759c593c41?format=webp&w=400",
+      "collection": "medieval-young-ho"
+    },
+    {
       "src": "https://cdn.cosmos.so/68ecdd96-e2f6-402b-b944-a1c0e17ca3bf?format=webp&w=400",
       "collection": "medieval-young-ho"
     },
@@ -2204,16 +2204,16 @@
       "collection": "candle-operas"
     },
     {
+      "src": "https://cdn.cosmos.so/750b5abb-f541-4f47-890a-070e0698c834?format=webp&w=400",
+      "collection": "surrealism"
+    },
+    {
       "src": "https://cdn.cosmos.so/90285d6a-31fa-4526-b39f-a0dd53528a4b?format=webp&w=400",
       "collection": "surrealism"
     },
     {
       "src": "https://cdn.cosmos.so/86167ee7-d084-4db5-89a8-f9ef665ac787?format=webp&w=400",
       "collection": "surrealism"
-    },
-    {
-      "src": "https://cdn.cosmos.so/14524e61-9c6d-4f06-af8b-b11ce6f0e22b?format=webp&w=400",
-      "collection": "no-more-work"
     },
     {
       "src": "https://cdn.cosmos.so/a94e89d4-e880-409e-ab3f-5c53de37576a?format=webp&w=400",
