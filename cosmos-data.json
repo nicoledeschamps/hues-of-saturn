@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-07-19T09:49:19Z",
+  "updated": "2026-07-20T10:48:40Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,12 +25,8 @@
     "no-more-work",
     "cold"
   ],
-  "total": 591,
+  "total": 590,
   "images": [
-    {
-      "src": "https://cdn.cosmos.so/288cec59-6d2d-46c0-8dc6-4659d5d4fb6a?format=webp&w=400",
-      "collection": "cyber"
-    },
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
       "collection": "cyber"
@@ -90,10 +86,6 @@
     {
       "src": "https://cdn.cosmos.so/e4a72c5f-95f0-4889-bc5b-408d821881b1?format=webp&w=400",
       "collection": "cyber"
-    },
-    {
-      "src": "https://cdn.cosmos.so/cf37723f-e4a3-4803-b6f7-9fae334819ca?format=webp&w=400",
-      "collection": "motion"
     },
     {
       "src": "https://cdn.cosmos.so/86200e26-9bb2-4133-9c0a-b4e8919a9256?format=webp&w=400",
@@ -1418,6 +1410,10 @@
     {
       "src": "https://cdn.cosmos.so/23bdd67e-92f2-44c6-9fff-9b7f146e4728?format=webp&w=400",
       "collection": "food"
+    },
+    {
+      "src": "https://cdn.cosmos.so/9a73db86-3d26-4e91-bb6a-e6a50c8a6e9e?format=webp&w=400",
+      "collection": "feels"
     },
     {
       "src": "https://cdn.cosmos.so/53f56765-6422-4b12-b074-3599a5cbd75b?format=webp&w=400",
