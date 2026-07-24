@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-07-23T10:19:20Z",
+  "updated": "2026-07-24T10:13:24Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,12 +25,8 @@
     "no-more-work",
     "cold"
   ],
-  "total": 590,
+  "total": 589,
   "images": [
-    {
-      "src": "https://cdn.cosmos.so/288cec59-6d2d-46c0-8dc6-4659d5d4fb6a?format=webp&w=400",
-      "collection": "cyber"
-    },
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
       "collection": "cyber"
