@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-07-24T10:13:24Z",
+  "updated": "2026-07-25T09:43:10Z",
   "collections": [
     "elements",
     "cyber",
@@ -25,7 +25,7 @@
     "no-more-work",
     "cold"
   ],
-  "total": 589,
+  "total": 590,
   "images": [
     {
       "src": "https://cdn.cosmos.so/fd488c48-5354-463c-8ffa-ac331be22789?format=webp&w=400",
@@ -2178,6 +2178,10 @@
     {
       "src": "https://cdn.cosmos.so/f40f8530-cddb-4ae3-8c17-3d84d136b000?format=webp&w=400",
       "collection": "clotbes-that-catch-me"
+    },
+    {
+      "src": "https://cdn.cosmos.so/e6c26eb6-12f8-4c59-95e4-a8c47c283c08?format=webp&w=400",
+      "collection": "candle-operas"
     },
     {
       "src": "https://cdn.cosmos.so/31b26783-5520-44b8-b6d8-520688bc7a79?format=webp&w=400",
