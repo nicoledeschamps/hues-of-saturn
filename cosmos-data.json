@@ -1,7 +1,7 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-08-01T09:55:21Z",
+  "updated": "2026-08-02T09:53:25Z",
   "collections": [
     "elements",
     "cyber",
@@ -1676,10 +1676,6 @@
       "collection": "cancer-sun"
     },
     {
-      "src": "https://cdn.cosmos.so/10bf4aec-7e52-4979-80ad-f3e986f72f69?format=webp&w=400",
-      "collection": "codecore"
-    },
-    {
       "src": "https://cdn.cosmos.so/0bef8da9-c955-4520-92b2-b77db3683ce2?format=webp&w=400",
       "collection": "codecore"
     },
@@ -2206,6 +2202,10 @@
     {
       "src": "https://cdn.cosmos.so/86167ee7-d084-4db5-89a8-f9ef665ac787?format=webp&w=400",
       "collection": "surrealism"
+    },
+    {
+      "src": "https://cdn.cosmos.so/14524e61-9c6d-4f06-af8b-b11ce6f0e22b?format=webp&w=400",
+      "collection": "no-more-work"
     },
     {
       "src": "https://cdn.cosmos.so/a94e89d4-e880-409e-ab3f-5c53de37576a?format=webp&w=400",
