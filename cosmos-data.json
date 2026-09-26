@@ -1,9 +1,10 @@
 {
   "username": "huesofsaturn",
   "profile": "https://www.cosmos.so/huesofsaturn",
-  "updated": "2026-09-25T13:13:58Z",
+  "updated": "2026-09-26T12:39:15Z",
   "collections": [
     "elements",
+    "orbit",
     "cyber",
     "motion",
     "art-that-caught-me",
@@ -22,11 +23,18 @@
     "clotbes-that-catch-me",
     "candle-operas",
     "surrealism",
-    "no-more-work",
-    "cold"
+    "no-more-work"
   ],
-  "total": 608,
+  "total": 583,
   "images": [
+    {
+      "src": "https://cdn.cosmos.so/3ffffd23-aae1-4c2b-a630-0b0730d5c75c?format=webp&w=400",
+      "collection": "orbit"
+    },
+    {
+      "src": "https://cdn.cosmos.so/d948057c-8780-4e36-88ee-a3063b43c554?format=webp&w=400",
+      "collection": "orbit"
+    },
     {
       "src": "https://cdn.cosmos.so/288cec59-6d2d-46c0-8dc6-4659d5d4fb6a?format=webp&w=400",
       "collection": "cyber"
@@ -2350,114 +2358,6 @@
     {
       "src": "https://cdn.cosmos.so/3de45b0e-75d6-4124-bb27-d9532abd5704?format=webp&w=400",
       "collection": "no-more-work"
-    },
-    {
-      "src": "https://cdn.cosmos.so/19798df0-82fe-412c-b44d-f432c0cf9dbb?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/79a48165-95e7-4315-84e7-bb364987acaa?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/6e5d656c-9e51-464a-8c40-91610726bcc9?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/1a3ceff0-ba22-4792-a9c9-a9490a02eb80?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/0b01c7f1-dc11-4a3d-bd6c-7474d6349b59?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/9d928742-0cef-47ec-8804-66af046884cf?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/a590b73c-ba1c-43a3-adfb-15a4cebca15f?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/e0fd4a5e-30c6-4a17-9fb0-b6000f28a1bb?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/259b7f85-1fda-4c1a-b45b-79c4081ab8a7?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/42ef170f-821f-4108-a717-d3191bd9715e?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/8034a21b-264e-40fe-8094-eda1b1322b01?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/bcac616e-38aa-47c9-a160-9d64ff066662?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/b162be54-4615-45d8-8fea-3f4ce9db2d1d?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/827b62a6-2db9-4409-9cca-4de1340fa1a1?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/40ca9606-a3a3-464b-bb37-57ea24110736?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/b634767e-9f71-4037-a000-7dec5d17d584?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/066b1f7e-0f36-4dc5-b581-e8ed25551773?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/4c200843-7920-4138-9295-aa5155826a74?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/4d67982f-c8f2-406c-ab49-4360af597ba6?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/657d1183-98c3-4eb8-a0cc-a2263f7f3467?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/a48d1dc4-bc6e-453d-a1ef-20906f68c440?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/df918837-9b5c-432f-8515-1a8a67263d10?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/f0eed6bf-b98d-4ae0-a9bf-12e85a56a7b7?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/38d888c7-1a6b-4a1c-a512-0732c76ab165?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/8ff8467a-3b15-4d91-8e3a-6a93e7bfc864?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/85c39678-0c64-4375-8b8f-071d4d146b72?format=webp&w=400",
-      "collection": "cold"
-    },
-    {
-      "src": "https://cdn.cosmos.so/6e1fc82f-98ec-43b9-abea-7332bc42c29e?format=webp&w=400",
-      "collection": "cold"
     }
   ]
 }
